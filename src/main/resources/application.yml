@@ -11,7 +11,7 @@ logging:
 
 
 example:
-  baseUrl: http://localhost:8081
+  baseUrl: http://localhost:9090
 
 security:
   oauth2:
